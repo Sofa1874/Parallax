@@ -69,19 +69,19 @@ div#bg-3-4{
  background:url('https://raw.githack.com/Sofa1874/Parallax/main/rocket.png');
  width:1104px;
  height:684px;
- top:2800px;
+ top:1000px;
  right:0px;
 }
 
 /*(Пункт 4)*/
-/*Мыло*/
+/*Звезда*/
 div#parallax-bg-2 div{
  background:url('https://raw.githack.com/Sofa1874/Parallax/main/star.png');
  background-repeat:no-repeat;
  position:absolute;
  display:block;
- width:300px;
- height:300px;
+ width:100px;
+ height:100px;
  overflow:hidden;
 }
 
@@ -116,8 +116,8 @@ div#parallax-bg-1 div{
  background-repeat:no-repeat;
  position:absolute;
  display:block;
- width:300px;
- height:300px;
+ width:200px;
+ height:200px;
  overflow:hidden;
 }
 div#bg-1-1{
