@@ -43,8 +43,8 @@ div#parallax-bg-3 div{
 /*Принц*/
 div#bg-3-1{
  background:url('https://raw.githack.com/Sofa1874/Parallax/main/prince.png');
- width:300px;
- height:300px;
+ width:1000px;
+ height:1000px;
  top:-100px;
  right:100px;
 }
