@@ -67,8 +67,8 @@ div#bg-3-3{
 /*Вопрос — ракета*/
 div#bg-3-4{
  background:url('https://raw.githack.com/Sofa1874/Parallax/main/rocket.png');
- width:1104px;
- height:684px;
+ width:300px;
+ height:300px;
  top:1000px;
  right:0px;
 }
@@ -80,8 +80,8 @@ div#parallax-bg-2 div{
  background-repeat:no-repeat;
  position:absolute;
  display:block;
- width:100px;
- height:100px;
+ width:50px;
+ height:50px;
  overflow:hidden;
 }
 
