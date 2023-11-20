@@ -1,5 +1,5 @@
 body{
-  background:url('https://rawcdn.githack.com/Viktorrrrriia/WB_Lab4/e643357c9bae9759ae49c3e9bacf10e734bfb502/111.jpg');
+  background:url('https://raw.githack.com/Sofa1874/Parallax/main/Sky.jpg');
  height:4600px;
 } 
 
@@ -42,7 +42,7 @@ div#parallax-bg-3 div{
 /*(Пункт 3)*/
 /*Тайлер*/
 div#bg-3-1{
- background:url('https://rawcdn.githack.com/Viktorrrrriia/WB_Lab4/329394fa33034252955361fd414e414bbd057ad0/Tyler.png');
+ background:url('https://raw.githack.com/Sofa1874/Parallax/main/prince.png');
  width:529px;
  height:757px;
  top:-100px;
@@ -50,7 +50,7 @@ div#bg-3-1{
 }
 /*Вопрос*/
 div#bg-3-2{
- background:url('https://rawcdn.githack.com/Viktorrrrriia/WB_Lab4/bdae20186aa00d8f9ab9557edf154c89e9deccdd/Question.png');
+ background:url('https://raw.githack.com/Sofa1874/Parallax/main/rocket.png');
  width:603px;
  height:583px;
  top:1050px;
@@ -58,7 +58,7 @@ div#bg-3-2{
 }
 /*Сегорета*/
 div#bg-3-3{
- background:url('https://rawcdn.githack.com/Viktorrrrriia/WB_Lab4/07514593e6186064bde7ec7c7f18dec32e5bf359/Segoreta.png');
+ background:url('https://raw.githack.com/Sofa1874/Parallax/main/Saturn.png');
  width:600px;
  height:600px;
  top:1800px;
@@ -66,7 +66,7 @@ div#bg-3-3{
 }
 /*Вопрос*/
 div#bg-3-4{
- background:url('https://rawcdn.githack.com/Viktorrrrriia/WB_Lab4/bdae20186aa00d8f9ab9557edf154c89e9deccdd/Question.png');
+ background:url('https://raw.githack.com/Sofa1874/Parallax/main/rocket.png');
  width:1104px;
  height:684px;
  top:2800px;
